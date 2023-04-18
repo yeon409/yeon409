@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome to Soyeon's github!%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text="Welcome to Soyeon's github!"%20render&fontSize=90)
 
 <!--
 **yeon409/yeon409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
